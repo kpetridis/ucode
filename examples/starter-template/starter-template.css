@@ -1,0 +1,174 @@
+body {
+  padding-top: 50px;
+  background-image:url('') ;
+  background-color: #000000;
+  
+
+
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  font-family: neou;
+  letter-spacing: 10px;
+  color: #DB9A34;
+
+}
+.wrapper {
+  width: 200%;
+  margin:0 auto;
+    height: -1px;
+
+  background-color: #ffffff;
+
+
+}
+
+.Welcome {
+	
+	font-family: neou;
+	color: #000000;
+	font-weight: thin;
+	font-size: 60px;
+	margin-top: 20px;
+	margin-left: -5px;
+	letter-spacing: 10px;
+}
+
+.lead {
+	font-family: neou;
+	letter-spacing: 0px;
+	color: #787878;
+	font-size: 50px;
+	font-weight: thin;
+}
+
+
+
+
+.container {
+	font-family: neou;
+	color: #212121;
+}
+
+.navbar-brand  {
+	color: #212121;
+
+
+}
+
+.title {
+	color: #ffffff;
+}
+
+
+.active {
+	color: #22B573;
+}
+
+.navbar  {
+	background-color: #212121;
+	 
+	 
+	font-weight: bolder;
+}
+
+.navbar-brand {
+	color: #ffffff;
+	margin-top: 10px;
+	font-size: 15px;
+
+}
+
+.navbar-inverse  > li > a {
+	color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #CCCCCC;
+	font-family: neou ;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	font-size: 15px;
+
+}
+
+.soup {
+	width: 175px;
+	margin-left: -5px;
+	margin-top: -5px;
+}
+
+.nutella {
+	width: 875px;
+	margin-left: 5px;
+	margin-top: -5px;
+}
+
+
+.people {
+	width: 240px;
+	margin-top: -199px;
+	margin-left: 390px;
+}
+
+.people2 {
+	width: 250px;
+	margin-top: -279px;
+	margin-left: 650px;
+}
+
+.starbucks {
+	width: 250px;
+	margin-top: -349px;
+	margin-left: 910px;
+}
+
+.mcdonalds {
+	width: 350px;
+	margin-top: -5px;
+	margin-left: -10px;
+}
+
+.subway {
+	width: 500px;
+	margin-top: -10px;
+	margin-left: 5px;
+}
+
+.blackhawks {
+	width: 281px;
+	margin-top: -10px;
+	margin-left: 2px;
+}
+
+.broncos {
+	width: 360px;
+	margin-top: -10px;
+	margin-left: -18px;
+}
+
+.bruins {
+	width: 300px;
+	margin-top: -10px;
+	margin-left: 90px;
+}
+
+.sox {
+	width: 300px;
+	margin-top: -10px;
+	margin-left: 70px;
+}
+
+
+.colors3 {
+	width: 23px;
+	margin-top: 15px;
+	margin-left: -420px;
+}
+
+
+
+
+

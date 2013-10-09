@@ -1,0 +1,40 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  background-color: #00B9CC;
+
+}
+
+
+
+.container {
+	color: #666666;
+	font-family: BigNoodleTitling;
+	font-size: 190%;
+}
+
+.navbar-toggle {
+	color: #FCEE21;
+}
+
+
+.navbar-brand {
+	font-size: 100%;
+}
+
+.jumbotron {
+	background-color: #ffffff;
+}
+
+
+.btn  {
+	background-color: #00B9CC
+
+
+
+}
+
+
+
+
+
